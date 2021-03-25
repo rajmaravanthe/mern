@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb+srv://raj:raj123@cluster0.nas91.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "myjwtsecret",
+    "githubClientId": "b8135fcf9ab125d20ccd",
+    "githubSecret": "d22502af71a278491d1bea4045d336e1b74313f9"
+}
